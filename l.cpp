@@ -9,5 +9,5 @@ struct Node {
        data1=data;
        next1=next;
     }
-
+     
 };
